@@ -42,3 +42,5 @@ Aqui está uma lista com os comandos Git mais usados:
 - `git remote remove <nome>` → Remove um repositório remoto.  
 
 Se precisar de mais detalhes sobre algum comando, só perguntar! 🚀
+
+git remote add origin https://github.com/igorparadella/TASI.git
